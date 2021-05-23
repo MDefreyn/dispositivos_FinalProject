@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Account Manager</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="adicionarConta">Adicionar nova conta</string>
+    <string name="contasPagar">Contas a Pagar!</string>
+    <string name="deletar">Deletar</string>
+    <string name="descricao">Descrição</string>
+    <string name="editar">Editar</string>
+    <string name="pagamento">Pagamento</string>
+    <string name="pago">Pago</string>
+    <string name="salvar">Salvar</string>
+    <string name="situacao">Situação</string>
+    <string name="valor">Valor</string>
+    <string name="vencimento">Vencimento</string>
+    <string name="voltar">Voltar</string>
+</resources>
