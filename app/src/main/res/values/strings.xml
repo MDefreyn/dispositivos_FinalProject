@@ -13,4 +13,5 @@
     <string name="valor">Valor</string>
     <string name="vencimento">Vencimento</string>
     <string name="voltar">Voltar</string>
+    <string name="filter">Informe a data para filtrar</string>
 </resources>
